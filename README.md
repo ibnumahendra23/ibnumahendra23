@@ -29,7 +29,7 @@
  <p align="center">
   <img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-vuejs.jpg" height="75"> &nbsp;
   <img src="https://miro.medium.com/max/600/0*B_Y4j2GNEbdQg47x" height="75"> &nbsp;
-  <img src="https://pintaar.com/storage/course_picture/Qlo03JjedHjQkokQgptsWRWJUHOsc6rtWeqgVO0E.png" height="75"> &nbsp;
+  <img src="https://miro.medium.com/max/1000/1*GkR93AAlILkmE_3QQf88Ug.png" height="75"> &nbsp;
   <img src="https://inertiajs.com/previews/home.png" height="75"> &nbsp;
   <img src="https://thidiweb.com/wp-content/uploads/2018/02/apa-yang-dimaksud-dengan-bootstrap-4.png" height="75"> &nbsp;
   <img src="https://www.codernocoder.com/wp-content/uploads/2021/11/baked-8.png" height="75"> &nbsp;
