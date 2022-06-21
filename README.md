@@ -24,6 +24,7 @@
 <img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="50"> &nbsp;
 <img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="50"> &nbsp;
  </p>
+ <hr>
 <img src=""> 
 <img src=""> 
 <img src=""> 
