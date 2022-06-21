@@ -34,6 +34,10 @@
   <img src="https://thidiweb.com/wp-content/uploads/2018/02/apa-yang-dimaksud-dengan-bootstrap-4.png" height="75"> &nbsp;
   <img src="https://www.codernocoder.com/wp-content/uploads/2021/11/baked-8.png" height="75"> &nbsp;
  </p>
+ <p align="center">
+  <img src="https://jefrydco.id/_nuxt/img/how-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg" height="75"> &nbsp;
+  <img src="https://4.bp.blogspot.com/-nk853fZTyrA/XBZqDbFqPtI/AAAAAAAAAQo/f6-Vl553McQEH0W2LYdEDM3Oi4M-Ov4VgCLcBGAs/s1600/1_FDNeKIUeUnf0XdqHmi7nsw.png" height="75"> &nbsp;
+ </p>
 <hr>
 
 
