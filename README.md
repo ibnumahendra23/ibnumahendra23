@@ -28,9 +28,11 @@
 <p align="center"> FRONTEND </p>
  <p align="center">
   <img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-vuejs.jpg" height="75"> &nbsp;
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ItM6k2Vz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png" height="75"> &nbsp;
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ItM6k2Vz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to- uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png" height="75"> &nbsp;
   <img src="https://inertiajs.com/previews/home.png" height="75"> &nbsp;
-<!--   <img src="">  -->
+  <img src="https://thidiweb.com/wp-content/uploads/2018/02/apa-yang-dimaksud-dengan-bootstrap-4.png" height="75"> &nbsp
+  <img src=" https://www.codernocoder.com/wp-content/uploads/2021/11/baked-8.png" height="75"> &nbsp 
+
  </p>
 <hr>
 
