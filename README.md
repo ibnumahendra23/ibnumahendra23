@@ -19,17 +19,17 @@
 <br>
 <p align="center"> BACKEND </p>
  <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png" height="50"/> &nbsp;
-  <img src="https://www.jagoweb.com/image/Codeigniter.png" height="50"> &nbsp;
-  <img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="50"> &nbsp;
-  <img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="50"> &nbsp;
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png" height="75"/> &nbsp;
+  <img src="https://www.jagoweb.com/image/Codeigniter.png" height="75"> &nbsp;
+  <img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="75"> &nbsp;
+  <img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="75"> &nbsp;
  </p>
 <hr>
 <p align="center"> FRONTEND </p>
  <p align="center">
-  <img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-vuejs.jpg"> 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ItM6k2Vz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png"> 
-  <img src="https://inertiajs.com/previews/home.png"> 
+  <img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-vuejs.jpg" height="75"> &nbsp;
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ItM6k2Vz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vx1ntk1reuhqo3tafbo.png" height="75"> &nbsp;
+  <img src="https://inertiajs.com/previews/home.png" height="75"> &nbsp;
 <!--   <img src="">  -->
  </p>
 <hr>
