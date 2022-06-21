@@ -19,10 +19,10 @@
 <br>
 <p align="center"> BACKEND </p>
 <p align="center">
-<img src="https://lecturer.ppns.ac.id/andriatmoko/wp-content/uploads/sites/7/2016/04/nodeJSandriatmoko.png" height="25"/>
-<img src="https://www.jagoweb.com/image/Codeigniter.png" height="25"> 
-<img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="25"> 
-<img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="25">
+<img src="https://lecturer.ppns.ac.id/andriatmoko/wp-content/uploads/sites/7/2016/04/nodeJSandriatmoko.png" height="50"/>
+<img src="https://www.jagoweb.com/image/Codeigniter.png" height="50"> 
+<img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="50"> 
+<img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="50">
  </p>
 <img src=""> 
 <img src=""> 
