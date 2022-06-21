@@ -20,7 +20,7 @@
 <p align="center"> BACKEND </p>
  <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png" height="75"/> &nbsp;
-  <img src="https://www.jagoweb.com/image/Codeigniter.png" height="75"> &nbsp;
+  <img src="https://www.matawebsite.com/images/blog/348_code_igniter_framework_php_yang_cepat_dan_ringan.jpg" height="75"> &nbsp;
   <img src="https://dosenit.com/wp-content/uploads/2021/03/laravel-logo-1.jpg" height="75"> &nbsp;
   <img src="https://cdn.xano.com/wp-content/uploads/2021/02/5faad417e6b17c0f58351b03_xano_og.png" height="75"> &nbsp;
  </p>
