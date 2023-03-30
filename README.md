@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- &nbsp; Studying Technical Information at Semarang University.
+- &nbsp; Studying Informatic Engineering at Semarang University.
 
 
 <br>
